@@ -12,6 +12,7 @@ A simple and intuitive expense tracking app built with **Python** and **Streamli
 
 *****Demo************
 Try the live app!!!!!
+https://myexpensetracker-rrozufb7adyzmahexh38x3.streamlit.app/
 
 
 ************📚 Tech Stack**************
