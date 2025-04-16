@@ -1,0 +1,11 @@
+description,amount,category,purchase_date
+Groceries,50.0,Food,2025-03-23
+Bus Ticket,2.0,Transport,2025-03-10
+Electricity Bill,100.0,Utilities,2025-03-4
+Movie Ticket,15.0,Entertainment,2025-03-7
+Restaurant Dinner,80.0,Food,2025-04-5
+Fuel,40.0,Transport,2025-04-06
+Gym Membership,30.0,Fitness,2025-04-02
+Internet Bill,60.0,Utilities,2025-04-07
+Personal care,30.0,Bathroom essentials,2025-03-14
+Personal care,45.0,Bathroom essentials,2025-04-7
